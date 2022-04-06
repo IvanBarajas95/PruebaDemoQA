@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runner.BasePage_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-06T22:38:05" hostname="IVAN" time="1.685">
+  <properties/>
+  <testcase name="form" classname="runner.BasePage_Test" time="1.685"/>
+  <system-out><![CDATA[https://demoqa.com/automation-practice-form
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 100.0.4896.20 (f9d71f93d32a6487809d6f35a9670c879fe97dfe-refs/branch-heads/4896@{#203}) on port 30821
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+abr. 06, 2022 5:38:01 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
